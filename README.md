@@ -77,7 +77,7 @@ content and layout.
 ## 📁 Project Structure
 
 ``` text
-noire-gsap-restaurant/
+noire-restaurant/
 │
 ├── app/
 │   ├── components/
